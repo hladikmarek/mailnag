@@ -55,7 +55,7 @@ msgstr ""
 
 #: Mailnag/plugins/messagingmenuplugin.py:105
 msgid "Shows new mails in the MessagingMenu indicator."
-msgstr ""
+msgstr "Zobrazí nové e-maily v MessagingMenu indikátoru."
 
 #: Mailnag/plugins/messagingmenuplugin.py:124
 msgid "Maximum number of visible mails:"
@@ -186,7 +186,7 @@ msgstr "Název"
 #: Mailnag/configuration/configwindow.py:282
 #, python-format
 msgid "About %s"
-msgstr ""
+msgstr "O aplikaci %s"
 
 #: Mailnag/configuration/configwindow.py:285
 msgid "An extensible mail notification daemon."
@@ -198,7 +198,7 @@ msgstr ""
 
 #: Mailnag/configuration/configwindow.py:289
 msgid "Homepage"
-msgstr ""
+msgstr "Domovská stránka"
 
 #: Mailnag/configuration/configwindow.py:304
 msgid "translator-credits"
@@ -222,19 +222,19 @@ msgstr "volitelně"
 
 #: Mailnag/configuration/accountdialog.py:249
 msgid "IMAP (Custom)"
-msgstr ""
+msgstr "IMAP (volitelné)"
 
 #: Mailnag/configuration/accountdialog.py:250
 msgid "POP3 (Custom)"
-msgstr ""
+msgstr "POP3 (volitelné)"
 
 #: Mailnag/configuration/accountdialog.py:251
 msgid "MBox (Custom)"
-msgstr ""
+msgstr "MBox (volitelné)"
 
 #: Mailnag/configuration/accountdialog.py:252
 msgid "Maildir (Custom)"
-msgstr ""
+msgstr "Maildir (volitelné)"
 
 #: Mailnag/configuration/accountdialog.py:358
 msgid "Connection failed."
@@ -278,15 +278,15 @@ msgstr "Složky (volitelně)"
 
 #: data/account_widget.ui.h:10
 msgid "File path:"
-msgstr ""
+msgstr "Cesta k souboru:"
 
 #: data/account_widget.ui.h:11
 msgid "Directory:"
-msgstr ""
+msgstr "Složka:"
 
 #: data/config_window.ui.h:1
 msgid "Enable/disable Mailnag daemon"
-msgstr ""
+msgstr "Zapnout/vypnout Mailnag démona"
 
 #: data/config_window.ui.h:2
 msgid "Add Account"
@@ -314,8 +314,8 @@ msgstr "Pluginy"
 
 #: data/config_window.ui.h:8
 msgid "Donate"
-msgstr ""
+msgstr "Přispějte"
 
 #: data/config_window.ui.h:9
 msgid "Info"
-msgstr ""
+msgstr "Info"
